@@ -1,5 +1,8 @@
 # Hello World, I'm Samuel, be very welcome
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nyoutaaa" alt="nyoutaa" /> </p>
+
 <table>
  <a href="https://github.com/samuelvsouza">
   
